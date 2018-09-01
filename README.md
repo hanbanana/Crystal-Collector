@@ -1,5 +1,19 @@
-<<<<<<< HEAD
-# unit-4-game!
-=======
-# unit-4-game!
->>>>>>> 4c0ba814b6bf3c991ea170d241cede6f62b04bc8
+#Crystal Collector
+in this game you are asked to match the random number thats produced for you.
+you can match the number by clicking the crystals on the screen if you match it you win if you go over you loose.
+
+
+## Built With:
+* Visual Studio Code
+
+
+
+
+### Content:
+* CSS
+* HTML
+* JavaScript
+
+
+## Live:
+https://hanbanana.github.io/unit-4-game/
