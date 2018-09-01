@@ -19,4 +19,4 @@ you can match the number by clicking the crystals on the screen if you match it 
 https://hanbanana.github.io/Crystal-Collector/
 
 ### Screenshot
-![Crystal-Collector Screenshot](https://github.com/hanbanana/Crystal-Collector/master/screenshots/crystal-collector-game.jpg)
+![Crystal-Collector Screenshot](https://github.com/hanbanana/Crystal-Collector/blob/master/screenshots/crystal-collector-game.JPG)
